@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.sectiontop{
+    width: 100%;
+    height: 100%;
+    background-image: url(/Images/tree.png);
+    overflow: hidden;
+    position: relative;
+}
+.linkheads{
+    font-style:italic;
+     margin-left :1%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contacts{
+    font-family:cursive;
+    color:crimson;
+    font-size: medium;
+   
+    
+}
